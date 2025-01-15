@@ -1,8 +1,8 @@
+#include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
-#include <Adafruit_Sensor.h>
 #include <Arduino.h>
-#include "dht.h"
+#include "dhtt.h"
 
 #define DHT_PIN 22
 #define DHT_TYPE DHT22

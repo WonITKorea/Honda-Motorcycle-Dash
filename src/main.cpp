@@ -2,7 +2,7 @@
 #include "utils.h"
 #include "graphics.h"
 #include "ecu.h"
-#include "dht.h"
+#include "dhtt.h"
 #include "gps.h"
 
 //Flag for debug mode, prints to UART0
